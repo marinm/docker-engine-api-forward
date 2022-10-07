@@ -8,8 +8,11 @@ I made this script to expose the Unix-domain socket to a TCP port on localhost s
 
 ## Usage
 
+Set `PORT` at the top of `index.js`. Then,
+
 ```
 npm install
+npm start
 ```
 
 ## Supported HTTP Methods
