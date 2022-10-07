@@ -15,6 +15,6 @@ npm install
 npm start
 ```
 
-## Supported HTTP Methods
+Then, give this a try:
 
-- `GET`
+`http://localhost:PORT/v1.41/version`
